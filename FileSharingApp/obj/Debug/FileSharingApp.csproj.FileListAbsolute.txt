@@ -1,0 +1,10 @@
+D:\DOTNET\FileSharingApp\FileSharingApp\bin\FileSharingApp.dll
+D:\DOTNET\FileSharingApp\FileSharingApp\bin\FileSharingApp.pdb
+D:\DOTNET\FileSharingApp\FileSharingApp\obj\Debug\FileSharingApp.dll
+D:\DOTNET\FileSharingApp\FileSharingApp\obj\Debug\FileSharingApp.pdb
+D:\FileSharingApp\FileSharingApp\bin\FileSharingApp.dll.config
+D:\FileSharingApp\FileSharingApp\bin\FileSharingApp.dll
+D:\FileSharingApp\FileSharingApp\bin\FileSharingApp.pdb
+D:\FileSharingApp\FileSharingApp\obj\Debug\FileSharingApp.csprojAssemblyReference.cache
+D:\FileSharingApp\FileSharingApp\obj\Debug\FileSharingApp.dll
+D:\FileSharingApp\FileSharingApp\obj\Debug\FileSharingApp.pdb
